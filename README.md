@@ -1,16 +1,31 @@
 ### Hi there 👋
 
-<!--
-**AziatkaVictor/AziatkaVictor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on my own [game](https://discord.gg/K3Xvkym9Ke)!
+- 🌱 I’m currently learning how to be a good coder...
+- 💬 Ask me about my VSCode extention [LTX-Support](https://github.com/AziatkaVictor/ltx-support)
+- ⚡ Fun fact: I'm guy
 
-Here are some ideas to get you started:
+### ✨ About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm young coder, which want to find a job. I like to learn new things, so I often create meaningless and not quite projects in which I train and learn other people’s skills. I’m also a perfectionist, so I like to make new versions of my old projects with new knowledge.
+
+### 💻 Languages
+
+* Python
+* Typescript
+* C++
+* HTML/CSS/JavaScript
+
+### 🛠️ Tools
+
+* Git
+* VSCode
+* Visual Studio Code
+
+### 👓 Other
+
+Also i have some knowlege of work with 3D-Modeling and have [ArtStation](https://www.artstation.com/aziatkavictor)! Here some of my tools:
+
+* Blender
+* Marmoset Toolbag
+* Substance Painter
