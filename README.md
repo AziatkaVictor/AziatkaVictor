@@ -24,7 +24,7 @@ I'm young coder, which want to find a job. I like to learn new things, so I ofte
 
 ### 👓 Other
 
-Also i have some knowlege of work with 3D-Modeling and have [ArtStation](https://www.artstation.com/aziatkavictor)! Here some of my tools:
+Also i have some knowledge of work with 3D-Modeling and have [ArtStation](https://www.artstation.com/aziatkavictor)! Here some of my tools:
 
 * Blender
 * Marmoset Toolbag
