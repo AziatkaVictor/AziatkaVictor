@@ -14,13 +14,16 @@ I'm young coder, which want to find a job. I like to learn new things, so I ofte
 * Python
 * Typescript
 * C++
+* Dart + Flutter
 * HTML/CSS/JavaScript
 
 ### 🛠️ Tools
 
 * Git
-* VSCode
 * Visual Studio Code
+* Visual Studio 2022
+* Figma
+* Unreal Engine
 
 ### 👓 Other
 
