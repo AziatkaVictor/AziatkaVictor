@@ -7,7 +7,7 @@
 
 ### ✨ About Me
 
-I'm young coder, which want to find a job. I like to learn new things, so I often create meaningless and not quite projects in which I train and learn other people’s skills. I’m also a perfectionist, so I like to make new versions of my old projects with new knowledge.
+I'm young coder. I like to learn new things, so I often create meaningless and not quite projects in which I train and learn other people’s skills. I’m also a perfectionist, so I like to make new versions of my old projects with new knowledge.
 
 ### 💻 Languages
 
@@ -21,7 +21,7 @@ I'm young coder, which want to find a job. I like to learn new things, so I ofte
 
 * Git
 * Visual Studio Code
-* Visual Studio 2022
+* Visual Studio
 * Figma
 * Unreal Engine
 
